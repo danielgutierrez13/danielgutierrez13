@@ -19,7 +19,7 @@ Soy desarrollador fullStack, autodidacta con un fervor por el aprendizaje consta
 <!-- Esto puede ser generado usando una tarjeta de Lenguajes Más Usados de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&theme=tokyonight)
 
-##🎹 Estadísticas del Perfil
+## 🎹 Estadísticas del Perfil
 <!-- Tarjeta de Estadísticas de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
 ![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
 
