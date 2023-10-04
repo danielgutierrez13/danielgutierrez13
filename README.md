@@ -17,18 +17,15 @@ Soy desarrollador fullStack, autodidacta con un fervor por el aprendizaje consta
 
 ## 👅 Lenguajes Más Usados
 <!-- Esto puede ser generado usando una tarjeta de Lenguajes Más Usados de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
-- **JavaScript**: 14%
-- **TypeScript**: 15%
-- **PHP**: 26%
-- **HTML**: 10%
-- **CSS**: 5%
-- **JAVA**: 30%
+(https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&theme=tokyonight)
 
 ##🎹 Estadísticas del Perfil
 <!-- Tarjeta de Estadísticas de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
 ![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
 
 ## 📫 Conéctate Conmigo
-
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dgutierrezvillegas@gmail.com)
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/tuperfil/](https://www.linkedin.com/in/daniel-gutierrez-villegas/))
 
 _✒️ De Daniel Gutierrez
