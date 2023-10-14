@@ -11,9 +11,9 @@ Soy desarrollador fullStack, autodidacta con un fervor por el aprendizaje consta
 - **Frontend**: HTML5 | CSS | Angular | React | Twing | Bootstrap
 - **Backend**: Java | PHP | SpringBoot | Symfony
 - **Automatizaciones**: RPA
-- **Base de Datos**: MySQL | SQL | PostgreSQL | Mongo DB
+- **Base de Datos**: MySQL | SQL | PostgreSQL | Oracle DB | Mongo DB
 - **Control de Versiones**: Git & GitHub | Bitbucket
-- **IDE**: Visual Studio Code | IntelliJ IDEA | PHP Storn | Web Storn | Sublime Text | Netbeans | Uipath
+- **IDE**: Visual Studio Code | IntelliJ IDEA | PHP Storm | Web Storm | Sublime Text | Netbeans | Uipath
 
 ## 👅 Lenguajes Más Usados
 <!-- Esto puede ser generado usando una tarjeta de Lenguajes Más Usados de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
