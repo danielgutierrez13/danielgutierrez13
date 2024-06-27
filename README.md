@@ -17,11 +17,13 @@ Soy desarrollador fullStack, autodidacta con un fervor por el aprendizaje consta
 
 ## 👅 Lenguajes Más Usados
 <!-- Esto puede ser generado usando una tarjeta de Lenguajes Más Usados de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&theme=tokyonight)
 
 ## 🎹 Estadísticas del Perfil
 <!-- Tarjeta de Estadísticas de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
-![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Conéctate Conmigo
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dgutierrezvillegas@gmail.com)
