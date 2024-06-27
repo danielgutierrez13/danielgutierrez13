@@ -23,8 +23,6 @@ Soy desarrollador fullStack, autodidacta con un fervor por el aprendizaje consta
 <!-- Tarjeta de Estadísticas de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
 ![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Conéctate Conmigo
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dgutierrezvillegas@gmail.com)
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gutierrez-villegas/)
