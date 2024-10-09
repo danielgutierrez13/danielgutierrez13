@@ -1,6 +1,6 @@
 # ¡Hola, soy Daniel Gutierrez! 👋🏻‍💻
 
-Soy desarrollador fullStack, autodidacta con un fervor por el aprendizaje constante y la exploración de nuevas tecnologías. Prospero en situaciones que me permiten resolver problemas complejos, saliendo de mi zona de confort para alcanzar tanto objetivos personales como asignados.
+Bachiller de la carrera de ingeniería informática, con una sólida experiencia en el desarrollo web de aplicaciones empresariales, basada en la implementación de microservicios, frontend y también automatizaciones de procesos RPA. Al ser parte de su empresa, pongo a sus servicios mis conocimientos y experiencia laboral, integrándolos con su personal, mediante un ambiente de respeto y trabajo de equipo, para lograr resultados tangibles y a su vez generar expectativas laborables.
 
 ## 💬 Acerca de Mí
 - 🔭 Explorando: Nuevas tecnologías, desarrollando soluciones de software y automatización de procesos con soluciones RPA.
