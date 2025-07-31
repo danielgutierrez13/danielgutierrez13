@@ -22,6 +22,22 @@ Bachiller de la carrera de ingeniería informática, con una sólida experiencia
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+## 🧰 Tech Stack
+
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,docker,git,github,vscode,vercel,netlify,postman,python,warp" />
+</p>
+
+`html | css | sass | js | ts | react | nextjs | nodejs | express | mongodb | socketio | tailwind | daisyui | docker | git | github | vscode | vercel | netlify | render | postman | python | warp`
+
+---
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielgutierrez13&theme=dark" alt="GitHub Badges" />
+  </a>
+</p>
+
 ## 📫 Conéctate Conmigo
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dgutierrezvillegas@gmail.com)
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gutierrez-villegas/)
