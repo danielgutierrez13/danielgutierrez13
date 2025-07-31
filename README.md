@@ -25,10 +25,10 @@ Bachiller de la carrera de ingeniería informática, con una sólida experiencia
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,nextjs,nodejs,express,mongodb,tailwind,docker,git,github,vscode,vercel,netlify,postman,python,warp" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,nextjs,nodejs,express,mongodb,sql.postgresql,docker,git,github,vscode,postman" />
 </p>
 
-`html | css | sass | js | ts | react ! angular | nextjs | nodejs | express | mongodb | socketio | tailwind | daisyui | docker | git | github | vscode | vercel | netlify | render | postman | python | warp`
+`html | css | sass | js | ts | react ! angular | nextjs | nodejs | express | mongodb | SQLServer | PostgreSQL | docker | git | github | vscode | postman `
 
 ---
 
