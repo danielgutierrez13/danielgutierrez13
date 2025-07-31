@@ -15,13 +15,12 @@ Bachiller de la carrera de ingeniería informática, con una sólida experiencia
 - **Control de Versiones**: Git & GitHub | Bitbucket
 - **IDE**: Visual Studio Code | IntelliJ IDEA | PHP Storm | Web Storm | Sublime Text | Netbeans | Uipath
 
-## 👅 Lenguajes Más Usados
-<!-- Esto puede ser generado usando una tarjeta de Lenguajes Más Usados de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&theme=tokyonight)
+## 📊 GitHub Stats
 
-## 🎹 Estadísticas del Perfil
-<!-- Tarjeta de Estadísticas de GitHub (https://github.com/anuraghazra/github-readme-stats) -->
-![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight)
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## 📫 Conéctate Conmigo
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dgutierrezvillegas@gmail.com)
