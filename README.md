@@ -2,14 +2,6 @@
 
 Bachiller de la carrera de ingeniería informática, con una sólida experiencia en el desarrollo web de aplicaciones empresariales, basada en la implementación de microservicios, frontend y también automatizaciones de procesos RPA. Al ser parte de su empresa, pongo a sus servicios mis conocimientos y experiencia laboral, integrándolos con su personal, mediante un ambiente de respeto y trabajo de equipo, para lograr resultados tangibles y a su vez generar expectativas laborables.
 
----
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielgutierrez13&theme=dark" alt="GitHub Badges" />
-  </a>
-</p>
-
 ## 💬 Acerca de Mí
 - 🔭 Explorando: Nuevas tecnologías, desarrollando soluciones de software y automatización de procesos con soluciones RPA.
 - 🎓 Educación: Bachiller en Ingenieria Informatica en la Universidad Nacional de Piura.
