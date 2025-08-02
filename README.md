@@ -15,18 +15,20 @@ Bachiller de la carrera de ingeniería informática, con una sólida experiencia
 - **Control de Versiones**: Git & GitHub | Bitbucket
 - **IDE**: Visual Studio Code | IntelliJ IDEA | PHP Storm | Web Storm | Sublime Text | Netbeans | Uipath
 
-## 📊 Estadísticas de GitHub
-
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,nextjs,nodejs,express,mongodb,sqlserver,postgresql,docker,git,github,vscode,postman" />
 </p>
 
 `html | css | sass | js | ts | react ! angular | nextjs | nodejs | express | mongodb | SQLServer | PostgreSQL | docker | git | github | vscode | postman `
+
+
+## 📊 Estadísticas de GitHub
+
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
