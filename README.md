@@ -21,35 +21,64 @@ Currently working on enterprise-level financial and insurance platforms, focusin
 
 ## 🛠 Tech Stack
 
-### Backend
-- Java 11 / 17
-- Spring Boot
-- WebFlux (Reactive Programming)
-- REST API Design
-- API-First approach
+<table>
+  <tr>
+    <td valign="top" width="16%">
 
-### Cloud & DevOps
-- Microsoft Azure
-- AWS (SNS, SES, Cognito, CloudWatch)
-- Azure DevOps Pipelines
-- CI/CD
-- Feature Flags
-- Ephemeral Environments
+### Backend
+- Java 11 / 17  
+- Spring Boot  
+- WebFlux  
+- REST APIs  
+- API-First  
+
+    </td>
+    <td valign="top" width="16%">
+
+### Cloud
+- Microsoft Azure  
+- AWS  
+- Azure DevOps  
+- CI/CD  
+- Feature Flags  
+
+    </td>
+    <td valign="top" width="16%">
 
 ### Observability
-- Dynatrace
-- Grafana
-- Azure API Management
+- Dynatrace  
+- Grafana  
+- Azure API Management  
+
+    </td>
+    <td valign="top" width="16%">
 
 ### Frontend
-- Angular
-- React
+- Angular  
+- React  
+
+    </td>
+    <td valign="top" width="16%">
 
 ### Databases
-- PostgreSQL
-- MySQL
-- Oracle DB
-- MongoDB
+- PostgreSQL  
+- MySQL  
+- Oracle DB  
+- MongoDB  
+
+    </td>
+    <td valign="top" width="16%">
+
+### Architecture
+- Microservices  
+- Clean Architecture  
+- SOLID  
+- Event-Driven  
+- Resilience Patterns  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,9 +94,9 @@ Currently working on enterprise-level financial and insurance platforms, focusin
 
 ## 📈 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight&hide_title=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielgutierrez13&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielgutierrez13&theme=tokyonight)
 
 ---
 
