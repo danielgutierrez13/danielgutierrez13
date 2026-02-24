@@ -94,7 +94,7 @@ Currently working on enterprise-level financial and insurance platforms, focusin
 
 ## 📈 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielgutierrez13&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielgutierrez13&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielgutierrez13&theme=tokyonight)
 
