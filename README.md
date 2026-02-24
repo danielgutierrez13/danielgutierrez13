@@ -1,29 +1,79 @@
-# ¡Hola, soy Daniel Gutierrez! 👋🏻‍💻
+# 👋 Hi, I'm Daniel Gutierrez
 
-Bachiller de la carrera de ingeniería informática, con una sólida experiencia en el desarrollo web de aplicaciones empresariales, basada en la implementación de microservicios, frontend y también automatizaciones de procesos RPA. Al ser parte de su empresa, pongo a sus servicios mis conocimientos y experiencia laboral, integrándolos con su personal, mediante un ambiente de respeto y trabajo de equipo, para lograr resultados tangibles y a su vez generar expectativas laborables.
+🚀 Backend Cloud Engineer | Spring Boot | Reactive Microservices | Azure & AWS
 
-## 💬 Acerca de Mí
-- 🔭 Explorando: Nuevas tecnologías, desarrollando soluciones de software y automatización de procesos con soluciones RPA.
-- 🎓 Educación: Bachiller en Ingenieria Informatica en la Universidad Nacional de Piura.
-- 👯 Colaboración: Deseosa de colaborar en el aprendizaje y desarrollo con nuevas tecnologías.
+I am a Software Engineer specialized in building scalable backend systems based on microservices architecture, reactive programming, and cloud-native environments.
 
-## 🛠 Tecnologías
-- **Frontend**: HTML5 | CSS | Angular | React | Twing | Bootstrap
-- **Backend**: Java | PHP | SpringBoot | Symfony
-- **Automatizaciones**: RPA
-- **Base de Datos**: MySQL | SQL | PostgreSQL | Oracle DB | Mongo DB
-- **Control de Versiones**: Git & GitHub | Bitbucket
-- **IDE**: Visual Studio Code | IntelliJ IDEA | PHP Storm | Web Storm | Sublime Text | Netbeans | Uipath
+Currently working on enterprise-level financial and insurance platforms, focusing on resilience, observability, and DevOps best practices.
 
-## 📊 Estadísticas de GitHub
+---
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 🧠 About Me
 
-## 📫 Conéctate Conmigo
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dgutierrezvillegas@gmail.com)
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gutierrez-villegas/)
+- 💼 Software Engineer II working on distributed systems in Azure.
+- ☁️ Experience designing API-First architectures.
+- ⚡ Specialized in reactive microservices using Spring Boot (Java 17).
+- 🔄 Strong experience with asynchronous communication (Azure Queues, AWS SNS/SQS).
+- 📊 Focused on observability, monitoring, and production stability.
+- 🤖 Experience in process automation (RPA - UiPath).
 
-_✒️ De Daniel Gutierrez
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java 11 / 17
+- Spring Boot
+- WebFlux (Reactive Programming)
+- REST API Design
+- API-First approach
+
+### Cloud & DevOps
+- Microsoft Azure
+- AWS (SNS, SES, Cognito, CloudWatch)
+- Azure DevOps Pipelines
+- CI/CD
+- Feature Flags
+- Ephemeral Environments
+
+### Observability
+- Dynatrace
+- Grafana
+- Azure API Management
+
+### Frontend
+- Angular
+- React
+
+### Databases
+- PostgreSQL
+- MySQL
+- Oracle DB
+- MongoDB
+
+---
+
+## 🏗 Architecture Focus
+
+- Microservices Architecture
+- Clean Architecture
+- SOLID Principles
+- Event-driven systems
+- Resilience patterns (Retry, Circuit Breaker, Idempotency)
+
+---
+
+## 📈 GitHub Stats
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgutierrez13&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgutierrez13&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- [Gmail](mailto:dgutierrezvillegas@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/daniel-gutierrez-villegas/)
+
+---
