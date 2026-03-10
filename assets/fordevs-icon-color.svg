@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 272" width="280" height="272">
+  <defs>
+    <linearGradient id="shieldGradIcon" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D4FF"/>
+      <stop offset="48%"  stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#9333EA"/>
+    </linearGradient>
+    <clipPath id="shieldClipIcon">
+      <path d="M 140,35 C 105,22 72,10 45,10 C 28,10 12,28 12,72 L 12,162 C 12,200 30,222 58,236 L 140,260 L 222,236 C 250,222 268,200 268,162 L 268,72 C 268,28 252,10 235,10 C 208,10 175,22 140,35 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Shield (transparent background — no <rect>) -->
+  <path d="M 140,35 C 105,22 72,10 45,10 C 28,10 12,28 12,72 L 12,162 C 12,200 30,222 58,236 L 140,260 L 222,236 C 250,222 268,200 268,162 L 268,72 C 268,28 252,10 235,10 C 208,10 175,22 140,35 Z" fill="url(#shieldGradIcon)"/>
+
+  <!-- White diagonal ribbon, clipped to shield silhouette -->
+  <ellipse cx="140" cy="148" rx="148" ry="52"
+           transform="rotate(-18 140 148)"
+           fill="white" clip-path="url(#shieldClipIcon)"/>
+
+  <!-- </> symbol inside white ribbon -->
+  <text x="140" y="170"
+        font-family="'Arial Black','Helvetica Neue',Arial,sans-serif"
+        font-size="64" font-weight="900"
+        text-anchor="middle" fill="#1E1B4B">&lt;/&gt;</text>
+</svg>
